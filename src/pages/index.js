@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import styles from '../../styles/Home.module.css'
 
 export default function Home() {
   return (
@@ -14,7 +14,6 @@ export default function Home() {
         <h1 className={styles.title}>
           You are a little too early
         </h1>
-
         <p className={styles.description}>
           It will be worth the wait
         </p>
