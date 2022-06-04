@@ -11,11 +11,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
+        <h1 className="text-5xl font-mono">
           You are a little too early
         </h1>
-        <p className={styles.description}>
-          It will be worth the wait
+        <p className="mt-4">
+          it will be worth the wait
         </p>
       </main>
     </div>
