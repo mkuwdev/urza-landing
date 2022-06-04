@@ -15,7 +15,7 @@ export default function Home() {
           You are a little too early
         </h1>
         <p className={styles.description}>
-          It will be worth the wait
+          It will be worth the wait ;)
         </p>
       </main>
     </div>
